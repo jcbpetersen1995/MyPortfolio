@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.d7dd4fd8.chunk.css",
-    "main.js": "/MyPortfolio/static/js/main.8ebc77ad.chunk.js",
-    "main.js.map": "/MyPortfolio/static/js/main.8ebc77ad.chunk.js.map",
+    "main.css": "/MyPortfolio/static/css/main.f630a3d1.chunk.css",
+    "main.js": "/MyPortfolio/static/js/main.0fd855b4.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.0fd855b4.chunk.js.map",
     "runtime-main.js": "/MyPortfolio/static/js/runtime-main.2af602fc.js",
     "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.2af602fc.js.map",
     "static/css/2.4fd143e7.chunk.css": "/MyPortfolio/static/css/2.4fd143e7.chunk.css",
-    "static/js/2.1ff64a5e.chunk.js": "/MyPortfolio/static/js/2.1ff64a5e.chunk.js",
-    "static/js/2.1ff64a5e.chunk.js.map": "/MyPortfolio/static/js/2.1ff64a5e.chunk.js.map",
+    "static/js/2.9b33264b.chunk.js": "/MyPortfolio/static/js/2.9b33264b.chunk.js",
+    "static/js/2.9b33264b.chunk.js.map": "/MyPortfolio/static/js/2.9b33264b.chunk.js.map",
     "index.html": "/MyPortfolio/index.html",
-    "precache-manifest.83a22eecefe2efc925f4560451cdb0a7.js": "/MyPortfolio/precache-manifest.83a22eecefe2efc925f4560451cdb0a7.js",
+    "precache-manifest.0c886502c5dab1525a311b4304ac1acc.js": "/MyPortfolio/precache-manifest.0c886502c5dab1525a311b4304ac1acc.js",
     "service-worker.js": "/MyPortfolio/service-worker.js",
     "static/css/2.4fd143e7.chunk.css.map": "/MyPortfolio/static/css/2.4fd143e7.chunk.css.map",
-    "static/css/main.d7dd4fd8.chunk.css.map": "/MyPortfolio/static/css/main.d7dd4fd8.chunk.css.map",
-    "static/js/2.1ff64a5e.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.1ff64a5e.chunk.js.LICENSE.txt",
+    "static/css/main.f630a3d1.chunk.css.map": "/MyPortfolio/static/css/main.f630a3d1.chunk.css.map",
+    "static/js/2.9b33264b.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.9b33264b.chunk.js.LICENSE.txt",
     "static/media/JP.logo.tiny.png": "/MyPortfolio/static/media/JP.logo.tiny.92fd6daa.png",
+    "static/media/JacobPetersen_r1_DEN_3082.jpg": "/MyPortfolio/static/media/JacobPetersen_r1_DEN_3082.51507982.jpg",
     "static/media/semantic.min.css": "/MyPortfolio/static/media/outline-icons.ef60a4f6.woff",
     "static/media/app.css": "/MyPortfolio/static/media/rainbow.tiny.bb389ad4.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.2af602fc.js",
     "static/css/2.4fd143e7.chunk.css",
-    "static/js/2.1ff64a5e.chunk.js",
-    "static/css/main.d7dd4fd8.chunk.css",
-    "static/js/main.8ebc77ad.chunk.js"
+    "static/js/2.9b33264b.chunk.js",
+    "static/css/main.f630a3d1.chunk.css",
+    "static/js/main.0fd855b4.chunk.js"
   ]
 }
